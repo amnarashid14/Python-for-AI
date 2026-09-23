@@ -1,0 +1,10 @@
+all commands should be run in the cloned project (from the actual repository i.e authors)
+firstly fork the repo in which you want to contribute 
+go to the repo which u forked and run this command below
+git remote set-url origin link(get this link from the <>Code option of your forked repo inside your account)
+git remote -v #to check which repo is at upstream/origin
+git remote add
+git remote add upstream https://github.com/MOwais20/Python-for-AI.git
+git pull upstream main # to fetch code from forked profile.
+git push origin main # to update my repository
+
