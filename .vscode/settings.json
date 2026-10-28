@@ -1,0 +1,18 @@
+{
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "interactiveWindow.executeWithShiftEnter": true,
+  "notebook.lineNumbers": "on",
+  "prettier.bracketSameLine": true,
+  "js/ts.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+  "editor.autoClosingBrackets": "always",
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.language.colorizedBracketPairs": [],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.wordWrap": "wordWrapColumn",
+  "js/ts.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+  "js/ts.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+  "js/ts.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true
+}
